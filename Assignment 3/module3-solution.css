@@ -77,3 +77,6 @@ margin-top: 15px;
     color: #333;
     background-color: #61122F;
 }
+#myNavbar ul li a {
+    color: #ff0040;
+}
