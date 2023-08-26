@@ -22,7 +22,7 @@ body{
 }
 .glyphicon{
 	font-size: 30px;
-	color:#61122F; 
+	color:#ff0040; 
 }
 
 .center{
@@ -52,7 +52,7 @@ font-size: 30px;
 margin-top: 15px;	
 }
 .navbar-inverse .navbar-brand {
-	color: #61122F;
+	color: #ff0040;
 	font-weight: 600;
 }
 
